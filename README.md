@@ -41,8 +41,8 @@ A comprehensive web application for analyzing investment portfolios with real-ti
   - Axios for API calls
 
 - **Backend**
-  - Node.js
-  - Express.js
+  - Python
+  - Flask
   - SQLite3
   - JWT for authentication
   - Natural for NLP
