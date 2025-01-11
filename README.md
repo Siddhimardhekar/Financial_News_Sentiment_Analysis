@@ -44,8 +44,8 @@ A comprehensive web application for analyzing investment portfolios with real-ti
   - Python
   - Flask
   - SQLite3
-  - JWT for authentication
-  - Natural for NLP
+  - NLTK (Natural Language toolkit)
+  - TextBlob
 
 - **External APIs**
   - Finnhub for financial data
